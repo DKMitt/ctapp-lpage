@@ -2,7 +2,7 @@
 
 This repo is for a new mobile app landing page
 
-![CoffeeTime App Logo](C:\Users\Darryl\NCBC\GitHub\ctapp-lpage\assets\img\coffeetime-logo600x459.png)
+![CoffeeTime App Logo](assets/img/coffeetime-logo600x459.png)
 
 ---
 
